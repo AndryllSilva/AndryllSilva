@@ -1,4 +1,4 @@
-  ### Bem-vindo ao meu perfil! 😄
+  ### Bem-vindo(a) ao meu perfil! 😄
 <div>
   <a href="https://github.com/andryllsilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andryllsilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
